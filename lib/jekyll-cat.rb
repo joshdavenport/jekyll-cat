@@ -1,3 +1,4 @@
+require 'liquid'
 require 'json'
 require 'uri'
 require 'open-uri'
