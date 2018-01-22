@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-cat"
-  spec.version       = '1.0.0'
+  spec.version       = '1.1.0'
   spec.authors       = ["Josh Davenport"]
   spec.email         = ["josh@joshdavenport.co.uk"]
   spec.summary       = 'Jekyll plugin providing a method to output contents of files and URLs'
