@@ -26,3 +26,9 @@ In liquid, use the `cat` tag to execute your include, passing the tag your path 
 {% cat https://loripsum.net/api/ %}
 ```
 
+### Variable
+```
+{% assign svg_path = 'assets/vector/my-svg-file.svg' %}
+{% cat svg_path %}
+```
+
